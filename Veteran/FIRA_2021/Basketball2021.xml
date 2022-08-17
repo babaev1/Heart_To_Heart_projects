@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<CanvasData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CanvasData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>canvas</Name>
   <Size>
-    <Width>1100</Width>
-    <Height>880</Height>
+    <Width>1000</Width>
+    <Height>1000</Height>
   </Size>
   <GridSize>8</GridSize>
   <Lines>
@@ -155,8 +155,8 @@
           <Y>49</Y>
         </Point>
         <Point>
-          <X>925</X>
-          <Y>49</Y>
+          <X>848</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -165,12 +165,12 @@
       <GUID>7351a3fc-a912-4005-89ec-460edcf3332a</GUID>
       <Path>
         <Point>
-          <X>925</X>
-          <Y>49</Y>
+          <X>848</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>1005</X>
-          <Y>49</Y>
+          <X>760</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -179,12 +179,12 @@
       <GUID>20304c98-cf42-4430-9fa6-1d44575c5c72</GUID>
       <Path>
         <Point>
-          <X>1005</X>
-          <Y>49</Y>
+          <X>760</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>1005</X>
-          <Y>109</Y>
+          <X>680</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -193,12 +193,12 @@
       <GUID>88a848e5-574a-4675-818d-0558f7dc187e</GUID>
       <Path>
         <Point>
-          <X>1005</X>
-          <Y>109</Y>
+          <X>680</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>925</X>
-          <Y>109</Y>
+          <X>600</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -207,12 +207,12 @@
       <GUID>e551b27a-024d-4d0a-bdf6-5ce38c603670</GUID>
       <Path>
         <Point>
-          <X>925</X>
-          <Y>109</Y>
+          <X>600</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>845</X>
-          <Y>109</Y>
+          <X>520</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -221,12 +221,12 @@
       <GUID>5cbb7980-0a89-4f48-9d16-87eec4e05797</GUID>
       <Path>
         <Point>
-          <X>845</X>
-          <Y>109</Y>
+          <X>520</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>765</X>
-          <Y>109</Y>
+          <X>440</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -235,12 +235,12 @@
       <GUID>169ca4ce-8ce2-4a91-9cd0-549a9fd142f0</GUID>
       <Path>
         <Point>
-          <X>765</X>
-          <Y>109</Y>
+          <X>440</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>685</X>
-          <Y>109</Y>
+          <X>360</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -249,12 +249,12 @@
       <GUID>46ba5fa4-65aa-401a-9acc-f8d7c892fcea</GUID>
       <Path>
         <Point>
-          <X>685</X>
-          <Y>109</Y>
+          <X>360</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>605</X>
-          <Y>109</Y>
+          <X>280</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -263,12 +263,12 @@
       <GUID>e26dc7bc-6fae-4618-991c-1e82fc73e8a4</GUID>
       <Path>
         <Point>
-          <X>605</X>
-          <Y>109</Y>
+          <X>280</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>525</X>
-          <Y>109</Y>
+          <X>200</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -277,12 +277,12 @@
       <GUID>0625a651-6efc-42a0-bdf1-c30ce07bcd5c</GUID>
       <Path>
         <Point>
-          <X>525</X>
-          <Y>109</Y>
+          <X>200</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>445</X>
-          <Y>109</Y>
+          <X>120</X>
+          <Y>120</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -291,12 +291,12 @@
       <GUID>df109915-2195-46e3-ab4c-b8d5a875ef8b</GUID>
       <Path>
         <Point>
-          <X>445</X>
-          <Y>109</Y>
+          <X>120</X>
+          <Y>120</Y>
         </Point>
         <Point>
-          <X>365</X>
-          <Y>109</Y>
+          <X>352</X>
+          <Y>288</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -305,12 +305,12 @@
       <GUID>a24d494b-aa8c-42cb-a473-1fb47509a0f9</GUID>
       <Path>
         <Point>
-          <X>365</X>
-          <Y>109</Y>
+          <X>352</X>
+          <Y>288</Y>
         </Point>
         <Point>
-          <X>285</X>
-          <Y>109</Y>
+          <X>272</X>
+          <Y>288</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -319,12 +319,12 @@
       <GUID>9e5d36be-8d51-408c-8a16-50a676ac45d8</GUID>
       <Path>
         <Point>
-          <X>285</X>
-          <Y>109</Y>
+          <X>272</X>
+          <Y>288</Y>
         </Point>
         <Point>
-          <X>205</X>
-          <Y>109</Y>
+          <X>192</X>
+          <Y>288</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -333,12 +333,12 @@
       <GUID>11bf9729-bedc-4bea-87d1-da879f4c0229</GUID>
       <Path>
         <Point>
-          <X>205</X>
-          <Y>109</Y>
+          <X>192</X>
+          <Y>288</Y>
         </Point>
         <Point>
-          <X>125</X>
-          <Y>109</Y>
+          <X>112</X>
+          <Y>288</Y>
         </Point>
       </Path>
       <ConnectMode>Normal</ConnectMode>
@@ -613,8 +613,8 @@
       <Name>Pos12</Name>
       <GUID>545743b1-9b6d-45f1-858d-fc6b4e42f589</GUID>
       <Location>
-        <X>893</X>
-        <Y>25</Y>
+        <X>816</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -637,8 +637,8 @@
       <Name>Pos13</Name>
       <GUID>8a074453-a51b-4c45-8ee9-4ddd0a964d58</GUID>
       <Location>
-        <X>973</X>
-        <Y>25</Y>
+        <X>728</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -661,8 +661,8 @@
       <Name>Pos14</Name>
       <GUID>a00ae399-194e-40cd-acbf-ec7883dd027c</GUID>
       <Location>
-        <X>973</X>
-        <Y>85</Y>
+        <X>648</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -685,8 +685,8 @@
       <Name>Pos15</Name>
       <GUID>8e3105e1-c842-439e-a7be-0d76fd87a7ba</GUID>
       <Location>
-        <X>893</X>
-        <Y>85</Y>
+        <X>568</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -709,8 +709,8 @@
       <Name>Pos16</Name>
       <GUID>b2341d45-96d4-4454-877f-a9eb29e5fb22</GUID>
       <Location>
-        <X>813</X>
-        <Y>85</Y>
+        <X>488</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -733,8 +733,8 @@
       <Name>Pos17</Name>
       <GUID>29610c39-d059-4154-80af-638e24638089</GUID>
       <Location>
-        <X>733</X>
-        <Y>85</Y>
+        <X>408</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -757,8 +757,8 @@
       <Name>Pos18</Name>
       <GUID>07ce1a70-cf82-4ab3-9cc4-0f73273adc0c</GUID>
       <Location>
-        <X>653</X>
-        <Y>85</Y>
+        <X>328</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -781,8 +781,8 @@
       <Name>Pos19</Name>
       <GUID>310380b8-5551-4658-95d7-79f056f2e516</GUID>
       <Location>
-        <X>573</X>
-        <Y>85</Y>
+        <X>248</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -805,8 +805,8 @@
       <Name>Pos20</Name>
       <GUID>2338581d-92eb-473a-bc58-e2979d1848bd</GUID>
       <Location>
-        <X>493</X>
-        <Y>85</Y>
+        <X>168</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -829,8 +829,8 @@
       <Name>Pos21</Name>
       <GUID>d7ecaa60-db66-4ce0-b991-db564d9bbdb0</GUID>
       <Location>
-        <X>413</X>
-        <Y>85</Y>
+        <X>88</X>
+        <Y>96</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -853,8 +853,8 @@
       <Name>Pos22</Name>
       <GUID>d516bcfb-7acb-4522-9ec0-0baab119bbdc</GUID>
       <Location>
-        <X>333</X>
-        <Y>85</Y>
+        <X>320</X>
+        <Y>264</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -877,8 +877,8 @@
       <Name>Pos23</Name>
       <GUID>1422d14a-d3c7-4e4f-a4a9-397c9caa3997</GUID>
       <Location>
-        <X>253</X>
-        <Y>85</Y>
+        <X>240</X>
+        <Y>264</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -901,8 +901,8 @@
       <Name>Pos24</Name>
       <GUID>94af86ba-fba9-4631-bd2a-e4f3320b89cd</GUID>
       <Location>
-        <X>173</X>
-        <Y>85</Y>
+        <X>160</X>
+        <Y>264</Y>
       </Location>
       <Size>
         <Width>64</Width>
@@ -925,8 +925,8 @@
       <Name>Pos25</Name>
       <GUID>e6941498-a302-40b3-a8ad-02879bfec9d8</GUID>
       <Location>
-        <X>93</X>
-        <Y>85</Y>
+        <X>80</X>
+        <Y>264</Y>
       </Location>
       <Size>
         <Width>64</Width>

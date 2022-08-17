@@ -1383,11 +1383,39 @@
       <Key xsi:type="xsd:string">M078</Key>
       <Value xsi:type="Motion">
         <Number>77</Number>
-        <Name>M078</Name>
-        <Date>2012-02-17T04:25:35.828125+03:00</Date>
-        <ButtonData>0</ButtonData>
+        <Name>Basketball2021</Name>
+        <Date>2022-08-17T17:19:45.6075357+03:00</Date>
+        <ButtonData>1024</ButtonData>
         <CompareType>Equals</CompareType>
-        <MotionData />
+        <MotionData>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 0A 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 95</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 5F 1F 39 1B 63 1F 35 1B 48 1D 50 1D 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B3</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 1C 25 7C 15 83 21 15 19 5B 1D 3D 1D 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B3</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D D2 28 C6 11 83 21 15 19 F0 1E A8 1B 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B1</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 5C 2B 3C 0F 83 21 15 19 6D 20 2C 1A 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B4</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 34 21 64 19 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 5C 2B 3C 0F 83 21 15 19 6D 20 2C 1A 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B4</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 10 27 88 13 34 21 64 19 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 5C 2B 3C 0F 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 64 19 34 21 4C 1D B2</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 48 26 50 14 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D C0 2B D8 0E 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 64 19 34 21 4C 1D B1</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 48 26 50 14 7E 1B 1A 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4A 1D 4E 1D C0 2B D8 0E 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 64 19 34 21 4C 1D B1</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 50 4C 1D 4C 1D 10 27 88 13 7E 1B 1A 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4A 1D 4E 1D C0 2B D8 0E D7 2C C1 0D 8A 1B 0E 1F 4A 1D 4E 1D 64 19 34 21 4C 1D D9</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 78 4C 1D 4C 1D 84 35 14 05 7E 1B 1A 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 64 19 34 21 4C 1D 05</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 64 4C 1D 4C 1D 84 35 14 05 7E 1B 1A 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 44 16 54 24 E4 25 B4 14 94 11 04 29 4C 1D 4C 1D 64 19 34 21 4C 1D F0</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 46 4C 1D 4C 1D 84 35 14 05 7E 1B 1A 1F 4C 1D 4C 1D 64 19 34 21 4C 1D 4C 1D 4C 1D 4E 1D 44 16 54 24 E4 25 B4 14 94 11 04 29 4C 1D 4C 1D 64 19 34 21 4C 1D D2</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 84 35 14 05 7E 1B 1A 1F 4C 1D 4C 1D 64 19 34 21 4C 1D 4C 1D 4C 1D 4E 1D 0C 17 8C 23 1C 25 7C 15 94 11 04 29 4C 1D 4C 1D 64 19 34 21 4C 1D B5</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 4C 1D 4C 1D 64 19 34 21 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 4C 1D 4C 1D 64 19 34 21 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 4C 1D 4C 1D 64 19 34 21 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 08 20 90 1A 4C 1D 4C 1D 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 66 21 32 19 4C 1D 4C 1D 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C C4 22 D4 17 4C 1D 4C 1D 4C 1D 8C</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A 7E 1B 1A 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D DC 1E BC 1B 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 8C</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 05 4C 1D 4C 1D C5 2C D3 0D 6C 1F 2C 1B 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 49 1D 4F 1D 58 2A 40 10 F6 19 A2 20 B4 26 E4 13 49 1D 4F 1D 4C 1D 4C 1D 4C 1D 8D</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 64 4C 1D 4C 1D 4F 27 49 13 6C 1F 2C 1B 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 49 1D 4F 1D 58 2A 40 10 F6 19 A2 20 B4 26 E4 13 49 1D 4F 1D 4C 1D 4C 1D 4C 1D ED</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 64 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D EF</anyType>
+          <anyType xsi:type="xsd:string">03 0D 10</anyType>
+          <anyType xsi:type="xsd:string">03 0D 10 FF</anyType>
+        </MotionData>
         <Address>160640</Address>
         <KeyCode>None</KeyCode>
       </Value>
@@ -1952,7 +1980,7 @@
         <DeviceNumber>0</DeviceNumber>
         <Code>0</Code>
         <ID>0</ID>
-        <Trim>0</Trim>
+        <Trim>-50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -1980,7 +2008,7 @@
         <DeviceNumber>1</DeviceNumber>
         <Code>0</Code>
         <ID>0</ID>
-        <Trim>-653</Trim>
+        <Trim>0</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2008,7 +2036,7 @@
         <DeviceNumber>2</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>-2703</Trim>
+        <Trim>-1300</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>252</Mixing1Rate>
@@ -2036,7 +2064,7 @@
         <DeviceNumber>3</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>2631</Trim>
+        <Trim>1081</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>4</Mixing1Rate>
@@ -2064,7 +2092,7 @@
         <DeviceNumber>4</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>-2000</Trim>
+        <Trim>-2270</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2092,7 +2120,7 @@
         <DeviceNumber>5</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>2000</Trim>
+        <Trim>2270</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2120,7 +2148,7 @@
         <DeviceNumber>6</DeviceNumber>
         <Code>0</Code>
         <ID>3</ID>
-        <Trim>-50</Trim>
+        <Trim>0</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2148,7 +2176,7 @@
         <DeviceNumber>7</DeviceNumber>
         <Code>0</Code>
         <ID>3</ID>
-        <Trim>-60</Trim>
+        <Trim>0</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2232,7 +2260,7 @@
         <DeviceNumber>10</DeviceNumber>
         <Code>0</Code>
         <ID>5</ID>
-        <Trim>0</Trim>
+        <Trim>50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2260,7 +2288,7 @@
         <DeviceNumber>11</DeviceNumber>
         <Code>0</Code>
         <ID>5</ID>
-        <Trim>80</Trim>
+        <Trim>-50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2288,7 +2316,7 @@
         <DeviceNumber>12</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>50</Trim>
+        <Trim>-50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2316,7 +2344,7 @@
         <DeviceNumber>13</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>18</Trim>
+        <Trim>-50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2344,7 +2372,7 @@
         <DeviceNumber>14</DeviceNumber>
         <Code>0</Code>
         <ID>7</ID>
-        <Trim>-108</Trim>
+        <Trim>40</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2372,7 +2400,7 @@
         <DeviceNumber>15</DeviceNumber>
         <Code>0</Code>
         <ID>7</ID>
-        <Trim>0</Trim>
+        <Trim>-518</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2400,7 +2428,7 @@
         <DeviceNumber>16</DeviceNumber>
         <Code>0</Code>
         <ID>8</ID>
-        <Trim>-1586</Trim>
+        <Trim>-1666</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2428,7 +2456,7 @@
         <DeviceNumber>17</DeviceNumber>
         <Code>0</Code>
         <ID>8</ID>
-        <Trim>1626</Trim>
+        <Trim>1587</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2456,7 +2484,7 @@
         <DeviceNumber>18</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>-474</Trim>
+        <Trim>-500</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>247</Mixing1Rate>
@@ -2484,7 +2512,7 @@
         <DeviceNumber>19</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>506</Trim>
+        <Trim>500</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>9</Mixing1Rate>
@@ -2512,7 +2540,7 @@
         <DeviceNumber>20</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>105</Trim>
+        <Trim>129</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
@@ -2540,7 +2568,7 @@
         <DeviceNumber>21</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>37</Trim>
+        <Trim>-163</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
