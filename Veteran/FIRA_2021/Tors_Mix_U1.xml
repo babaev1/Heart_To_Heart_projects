@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<CanvasData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>canvas</Name>
+  <Size>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </Size>
+  <GridSize>8</GridSize>
+  <Lines />
+  <Activities>
+    <anyType xsi:type="ActivityData">
+      <Name>URemix1</Name>
+      <GUID>b0a5a905-f42a-4693-8b42-69e1ca012d32</GUID>
+      <Location>
+        <X>40</X>
+        <Y>56</Y>
+      </Location>
+      <Size>
+        <Width>64</Width>
+        <Height>48</Height>
+      </Size>
+      <Text>URemixTors</Text>
+      <BackColorText>WhiteSmoke</BackColorText>
+      <MotionFlag>Start</MotionFlag>
+      <BaseName>URemix</BaseName>
+      <Description>Change the analog mixing factor and magnification ratio based on user variables</Description>
+      <Group>Advance</Group>
+      <ConnectedGuids />
+      <ConnectTypes />
+      <ProgramCode>
+        <anyType xsi:type="xsd:string">0D 00 12 0E 01 00 62 44 01 FF FF 01 D4</anyType>
+      </ProgramCode>
+      <Hint>Торс </Hint>
+    </anyType>
+  </Activities>
+  <BackColorText>buttonface</BackColorText>
+</CanvasData>
