@@ -2079,7 +2079,7 @@
         <DeviceNumber>2</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>-1300</Trim>
+        <Trim>-1200</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>252</Mixing1Rate>
