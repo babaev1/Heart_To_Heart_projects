@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Rcb4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Config>
-    <unsignedByte>171</unsignedByte>
+    <unsignedByte>187</unsignedByte>
     <unsignedByte>192</unsignedByte>
   </Config>
   <AdcReference>
@@ -1384,8 +1384,8 @@
       <Value xsi:type="Motion">
         <Number>77</Number>
         <Name>Basketball2021</Name>
-        <Date>2022-08-17T21:04:18.141194+03:00</Date>
-        <ButtonData>0</ButtonData>
+        <Date>2022-08-17T17:19:45.6075357+03:00</Date>
+        <ButtonData>1024</ButtonData>
         <CompareType>Equals</CompareType>
         <MotionData>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 0A 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 95</anyType>
@@ -1425,7 +1425,7 @@
       <Value xsi:type="Motion">
         <Number>78</Number>
         <Name>Basketball_Take_2022</Name>
-        <Date>2022-08-19T09:42:51.6397619+03:00</Date>
+        <Date>2022-08-18T14:34:30.4275268+03:00</Date>
         <ButtonData>512</ButtonData>
         <CompareType>Equals</CompareType>
         <MotionData>
@@ -1435,8 +1435,8 @@
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D D2 28 C6 11 83 21 15 19 F0 1E A8 1B 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B1</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 83 21 15 19 6D 20 2C 1A 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B4</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 4C 1D 4C 1D 34 21 64 19 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 83 21 15 19 6D 20 2C 1A 4A 1D 4E 1D 4C 1D 4C 1D 4C 1D B4</anyType>
-          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 1C 25 7C 15 34 21 64 19 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 64 19 34 21 4C 1D B2</anyType>
-          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 1C 25 7C 15 F4 1A A4 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 18 15 80 25 4C 1D B1</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 10 27 88 13 34 21 64 19 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 64 19 34 21 4C 1D B2</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 48 26 50 14 F4 1A A4 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 18 15 80 25 4C 1D B1</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D 48 26 50 14 F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 14 1E 84 1C C4 22 D4 17 4A 1D 4E 1D 18 15 80 25 4C 1D B1</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 50 4C 1D 4C 1D 10 27 88 13 F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4A 1D 4E 1D 94 2A 04 10 D7 2C C1 0D FA 19 9E 20 4A 1D 4E 1D 18 15 80 25 4C 1D D8</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 78 4C 1D 4C 1D 9C 31 FC 08 F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 18 15 80 25 4C 1D 03</anyType>
@@ -1452,7 +1452,7 @@
       <Value xsi:type="Motion">
         <Number>79</Number>
         <Name>Basketball_throw_2022</Name>
-        <Date>2022-08-19T09:57:35.1077004+03:00</Date>
+        <Date>2022-08-18T14:34:48.101859+03:00</Date>
         <ButtonData>1536</ButtonData>
         <CompareType>Equals</CompareType>
         <MotionData>
@@ -1460,7 +1460,7 @@
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 78 4C 1D 4C 1D 9C 31 FC 08 F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 18 15 80 25 4C 1D 03</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 78 4C 1D 4C 1D 9C 31 FC 08 F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D C8 19 D0 20 98 21 00 19 38 18 60 22 4C 1D 4C 1D 18 15 80 25 4C 1D 02</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 64 4C 1D 4C 1D D4 30 C4 09 F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 44 16 54 24 E4 25 B4 14 94 11 04 29 4C 1D 4C 1D 18 15 80 25 4C 1D EE</anyType>
-          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D D4 30 C4 09 F4 1A A4 1F 4C 1D 4C 1D C0 12 D8 27 4C 1D 4C 1D 4C 1D 4E 1D E0 15 B8 24 1C 25 7C 15 94 11 04 29 4C 1D 4C 1D 18 15 80 25 9C 18 FC</anyType>
+          <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 46 4C 1D 4C 1D D4 30 C4 09 F4 1A A4 1F 4C 1D 4C 1D C0 12 D8 27 4C 1D 4C 1D 4C 1D 4E 1D 44 16 54 24 E4 25 B4 14 94 11 04 29 4C 1D 4C 1D 18 15 80 25 9C 18 1A</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 28 4C 1D 4C 1D D4 30 C4 09 F4 1A A4 1F 4C 1D 4C 1D C0 12 D8 27 4C 1D 4C 1D 4C 1D 4E 1D 0C 17 8C 23 1C 25 7C 15 94 11 04 29 4C 1D 4C 1D 18 15 80 25 9C 18 FD</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A F4 1A A4 1F 4C 1D 4C 1D 8A 1B 0E 1F 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 4C 1D 4C 1D 18 15 80 25 9C 18 D7</anyType>
           <anyType xsi:type="xsd:string">3B 10 FF FF FF 02 00 01 4C 1D 4C 1D 0C 30 8C 0A F4 1A A4 1F 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4C 1D 4E 1D 08 20 90 1A C0 1C D8 1D 78 1E 20 1C 4C 1D 4C 1D 18 15 80 25 9C 18 D7</anyType>
@@ -1486,7 +1486,7 @@
       <Value xsi:type="Motion">
         <Number>80</Number>
         <Name>Tors_Mix_U1</Name>
-        <Date>2022-08-18T13:33:58.8976658+03:00</Date>
+        <Date>2022-08-18T14:33:11.7963689+03:00</Date>
         <ButtonData>0</ButtonData>
         <CompareType>Equals</CompareType>
         <MotionData>
@@ -1503,7 +1503,7 @@
       <Value xsi:type="Motion">
         <Number>81</Number>
         <Name>Tors_Mix_U1_Off</Name>
-        <Date>2022-08-18T13:36:12.5880915+03:00</Date>
+        <Date>2022-08-18T14:33:54.246455+03:00</Date>
         <ButtonData>0</ButtonData>
         <CompareType>Equals</CompareType>
         <MotionData>
@@ -2023,7 +2023,7 @@
         <DeviceNumber>0</DeviceNumber>
         <Code>0</Code>
         <ID>0</ID>
-        <Trim>-589</Trim>
+        <Trim>-50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2079,7 +2079,7 @@
         <DeviceNumber>2</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>-1766</Trim>
+        <Trim>-1200</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>252</Mixing1Rate>
@@ -2107,7 +2107,7 @@
         <DeviceNumber>3</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>901</Trim>
+        <Trim>1081</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>4</Mixing1Rate>
@@ -2135,7 +2135,7 @@
         <DeviceNumber>4</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>-1910</Trim>
+        <Trim>-2270</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2163,7 +2163,7 @@
         <DeviceNumber>5</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>2342</Trim>
+        <Trim>2270</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2191,7 +2191,7 @@
         <DeviceNumber>6</DeviceNumber>
         <Code>0</Code>
         <ID>3</ID>
-        <Trim>-324</Trim>
+        <Trim>0</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2219,7 +2219,7 @@
         <DeviceNumber>7</DeviceNumber>
         <Code>0</Code>
         <ID>3</ID>
-        <Trim>36</Trim>
+        <Trim>0</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2303,7 +2303,7 @@
         <DeviceNumber>10</DeviceNumber>
         <Code>0</Code>
         <ID>5</ID>
-        <Trim>0</Trim>
+        <Trim>-87</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2331,7 +2331,7 @@
         <DeviceNumber>11</DeviceNumber>
         <Code>0</Code>
         <ID>5</ID>
-        <Trim>0</Trim>
+        <Trim>-50</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2359,7 +2359,7 @@
         <DeviceNumber>12</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>17</Trim>
+        <Trim>-137</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2387,7 +2387,7 @@
         <DeviceNumber>13</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>-37</Trim>
+        <Trim>-68</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2415,7 +2415,7 @@
         <DeviceNumber>14</DeviceNumber>
         <Code>0</Code>
         <ID>7</ID>
-        <Trim>-36</Trim>
+        <Trim>-163</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2443,7 +2443,7 @@
         <DeviceNumber>15</DeviceNumber>
         <Code>0</Code>
         <ID>7</ID>
-        <Trim>36</Trim>
+        <Trim>-343</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2471,7 +2471,7 @@
         <DeviceNumber>16</DeviceNumber>
         <Code>0</Code>
         <ID>8</ID>
-        <Trim>-1750</Trim>
+        <Trim>-1719</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2499,7 +2499,7 @@
         <DeviceNumber>17</DeviceNumber>
         <Code>0</Code>
         <ID>8</ID>
-        <Trim>1750</Trim>
+        <Trim>1660</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2527,7 +2527,7 @@
         <DeviceNumber>18</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>-150</Trim>
+        <Trim>-389</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>247</Mixing1Rate>
@@ -2555,7 +2555,7 @@
         <DeviceNumber>19</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>150</Trim>
+        <Trim>479</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>9</Mixing1Rate>
@@ -2583,7 +2583,7 @@
         <DeviceNumber>20</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>30</Trim>
+        <Trim>27</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
@@ -2611,7 +2611,7 @@
         <DeviceNumber>21</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>0</Trim>
+        <Trim>-193</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
@@ -2723,7 +2723,7 @@
         <DeviceNumber>25</DeviceNumber>
         <Code>0</Code>
         <ID>12</ID>
-        <Trim>0</Trim>
+        <Trim>-613</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3064,9 +3064,9 @@
   <LinkFileList />
   <ConvertFileList />
   <ProjectTitle />
-  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Veteran\FIRA_2021\Sprint_Veteran_2.h4p</FileName>
-  <Path>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Veteran\FIRA_2021</Path>
-  <Name>Sprint_Veteran_2</Name>
+  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Vova\FIRA2021\Sprint_VOVA_2.h4p</FileName>
+  <Path>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Vova\FIRA2021</Path>
+  <Name>Sprint_VOVA_2</Name>
   <Anchors />
   <SoundDeviceNumber>-1</SoundDeviceNumber>
 </Rcb4>

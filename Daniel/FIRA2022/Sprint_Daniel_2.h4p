@@ -846,7 +846,7 @@
       <Value xsi:type="Motion">
         <Number>41</Number>
         <Name>22D022Walk_Forward_Slow</Name>
-        <Date>2022-08-19T11:18:19.452169+03:00</Date>
+        <Date>2022-08-17T00:34:12.261196+03:00</Date>
         <ButtonData>16</ButtonData>
         <CompareType>Equals</CompareType>
         <MotionData>
@@ -2079,7 +2079,7 @@
         <DeviceNumber>2</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>-1189</Trim>
+        <Trim>-1766</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>252</Mixing1Rate>
@@ -2107,7 +2107,7 @@
         <DeviceNumber>3</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>2600</Trim>
+        <Trim>901</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>4</Mixing1Rate>
@@ -2135,7 +2135,7 @@
         <DeviceNumber>4</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>-2126</Trim>
+        <Trim>-1910</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2163,7 +2163,7 @@
         <DeviceNumber>5</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>2000</Trim>
+        <Trim>2342</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2527,7 +2527,7 @@
         <DeviceNumber>18</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>-200</Trim>
+        <Trim>-150</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>247</Mixing1Rate>
@@ -2555,7 +2555,7 @@
         <DeviceNumber>19</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>200</Trim>
+        <Trim>150</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>9</Mixing1Rate>
@@ -2611,7 +2611,7 @@
         <DeviceNumber>21</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>-104</Trim>
+        <Trim>0</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
@@ -2639,7 +2639,7 @@
         <DeviceNumber>22</DeviceNumber>
         <Code>0</Code>
         <ID>11</ID>
-        <Trim>0</Trim>
+        <Trim>500</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2667,7 +2667,7 @@
         <DeviceNumber>23</DeviceNumber>
         <Code>0</Code>
         <ID>11</ID>
-        <Trim>0</Trim>
+        <Trim>-500</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>

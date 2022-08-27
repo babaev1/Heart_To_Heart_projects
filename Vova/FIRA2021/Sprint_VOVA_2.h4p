@@ -2415,7 +2415,7 @@
         <DeviceNumber>14</DeviceNumber>
         <Code>0</Code>
         <ID>7</ID>
-        <Trim>39</Trim>
+        <Trim>-163</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2443,7 +2443,7 @@
         <DeviceNumber>15</DeviceNumber>
         <Code>0</Code>
         <ID>7</ID>
-        <Trim>-485</Trim>
+        <Trim>-343</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3064,9 +3064,9 @@
   <LinkFileList />
   <ConvertFileList />
   <ProjectTitle />
-  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Vova\FIRA2021\Sprint_VOVA_2.h4p</FileName>
+  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Vova\FIRA2021\Weight_Lifting_VOVA_2.h4p</FileName>
   <Path>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Vova\FIRA2021</Path>
-  <Name>Sprint_VOVA_2</Name>
+  <Name>Weight_Lifting_VOVA_2</Name>
   <Anchors />
   <SoundDeviceNumber>-1</SoundDeviceNumber>
 </Rcb4>

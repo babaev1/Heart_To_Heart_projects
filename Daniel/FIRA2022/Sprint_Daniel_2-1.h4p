@@ -2359,7 +2359,7 @@
         <DeviceNumber>12</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>17</Trim>
+        <Trim>45</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2387,7 +2387,7 @@
         <DeviceNumber>13</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>-37</Trim>
+        <Trim>-62</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2527,7 +2527,7 @@
         <DeviceNumber>18</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>-150</Trim>
+        <Trim>-175</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>247</Mixing1Rate>
@@ -2555,7 +2555,7 @@
         <DeviceNumber>19</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>150</Trim>
+        <Trim>175</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>9</Mixing1Rate>
@@ -3064,9 +3064,9 @@
   <LinkFileList />
   <ConvertFileList />
   <ProjectTitle />
-  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Veteran\FIRA_2021\Sprint_Veteran_2.h4p</FileName>
-  <Path>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Veteran\FIRA_2021</Path>
-  <Name>Sprint_Veteran_2</Name>
+  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Daniel\FIRA2022\Sprint_Daniel_2-1.h4p</FileName>
+  <Path>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\Daniel\FIRA2022</Path>
+  <Name>Sprint_Daniel_2-1</Name>
   <Anchors />
   <SoundDeviceNumber>-1</SoundDeviceNumber>
 </Rcb4>
