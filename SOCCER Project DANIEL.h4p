@@ -2755,7 +2755,7 @@
         <DeviceNumber>2</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>-1261</Trim>
+        <Trim>-1910</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>252</Mixing1Rate>
@@ -2783,7 +2783,7 @@
         <DeviceNumber>3</DeviceNumber>
         <Code>0</Code>
         <ID>1</ID>
-        <Trim>2486</Trim>
+        <Trim>1261</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>4</Mixing1Rate>
@@ -2811,7 +2811,7 @@
         <DeviceNumber>4</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>-2222</Trim>
+        <Trim>-1910</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2839,7 +2839,7 @@
         <DeviceNumber>5</DeviceNumber>
         <Code>0</Code>
         <ID>2</ID>
-        <Trim>2222</Trim>
+        <Trim>2342</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>3</Mixing1Rate>
@@ -2923,7 +2923,7 @@
         <DeviceNumber>8</DeviceNumber>
         <Code>0</Code>
         <ID>4</ID>
-        <Trim>2631</Trim>
+        <Trim>2500</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2951,7 +2951,7 @@
         <DeviceNumber>9</DeviceNumber>
         <Code>0</Code>
         <ID>4</ID>
-        <Trim>-2703</Trim>
+        <Trim>-2500</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -2979,7 +2979,7 @@
         <DeviceNumber>10</DeviceNumber>
         <Code>0</Code>
         <ID>5</ID>
-        <Trim>0</Trim>
+        <Trim>-36</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3007,7 +3007,7 @@
         <DeviceNumber>11</DeviceNumber>
         <Code>0</Code>
         <ID>5</ID>
-        <Trim>0</Trim>
+        <Trim>36</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3035,7 +3035,7 @@
         <DeviceNumber>12</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>17</Trim>
+        <Trim>-36</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3063,7 +3063,7 @@
         <DeviceNumber>13</DeviceNumber>
         <Code>0</Code>
         <ID>6</ID>
-        <Trim>-37</Trim>
+        <Trim>-36</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3147,7 +3147,7 @@
         <DeviceNumber>16</DeviceNumber>
         <Code>0</Code>
         <ID>8</ID>
-        <Trim>-1750</Trim>
+        <Trim>-1650</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3175,7 +3175,7 @@
         <DeviceNumber>17</DeviceNumber>
         <Code>0</Code>
         <ID>8</ID>
-        <Trim>1750</Trim>
+        <Trim>1660</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3203,7 +3203,7 @@
         <DeviceNumber>18</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>-240</Trim>
+        <Trim>-400</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>247</Mixing1Rate>
@@ -3231,7 +3231,7 @@
         <DeviceNumber>19</DeviceNumber>
         <Code>0</Code>
         <ID>9</ID>
-        <Trim>240</Trim>
+        <Trim>400</Trim>
         <Position>7500</Position>
         <Mixing1Address>16420</Mixing1Address>
         <Mixing1Rate>9</Mixing1Rate>
@@ -3259,7 +3259,7 @@
         <DeviceNumber>20</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>-46</Trim>
+        <Trim>36</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
@@ -3287,7 +3287,7 @@
         <DeviceNumber>21</DeviceNumber>
         <Code>0</Code>
         <ID>10</ID>
-        <Trim>-108</Trim>
+        <Trim>-36</Trim>
         <Position>7500</Position>
         <Mixing1Address>16422</Mixing1Address>
         <Mixing1Rate>8</Mixing1Rate>
@@ -3399,7 +3399,7 @@
         <DeviceNumber>25</DeviceNumber>
         <Code>0</Code>
         <ID>12</ID>
-        <Trim>0</Trim>
+        <Trim>-100</Trim>
         <Position>7500</Position>
         <Mixing1Address>65535</Mixing1Address>
         <Mixing1Rate>1</Mixing1Rate>
@@ -3740,8 +3740,8 @@
   <LinkFileList />
   <ConvertFileList />
   <ProjectTitle />
-  <FileName>C:\Users\dimay\Documents\HeartToHeart4\Projects\SOCCER Project DANIEL.h4p</FileName>
-  <Path>C:\Users\dimay\Documents\HeartToHeart4\Projects</Path>
+  <FileName>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects\SOCCER Project DANIEL.h4p</FileName>
+  <Path>C:\Users\a\Documents\GitHub\Heart_To_Heart_projects</Path>
   <Name>SOCCER Project DANIEL</Name>
   <Anchors />
   <SoundDeviceNumber>-1</SoundDeviceNumber>
